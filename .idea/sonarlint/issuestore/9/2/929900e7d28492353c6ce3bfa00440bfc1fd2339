@@ -1,0 +1,17 @@
+
+c
+java:S1192 "HDefine a constant instead of duplicating this literal " edad: " 4 times.(İÀÿÿÿÿÿ
+C
+java:S16040"(Make this anonymous inner class a lambda(°ü¡¡üÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(µ‹Ëùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×Ğ§¼úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÎÀÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©‡—øûÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(İÀÿÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(»°‰üÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(İÀÿÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(ÎÌªı
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(›Õ¿
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(Âı˜¦
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Âôšñüÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Âı˜¦

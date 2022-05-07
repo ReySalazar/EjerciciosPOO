@@ -1,0 +1,22 @@
+
+~
+java:S1192"hDefine a constant instead of duplicating this literal "=======================================" 4 times.(Ø…ÿ¿
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èü˜µûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Àöóí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ïÍµüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø…ÿ¿
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¡ŒâÔ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òØºªûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø…ÿ¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üş¸øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(£×…Œ
+P	java:S125"<This block of commented-out lines of code should be removed.(¼ÃãP
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ø…ÿ¿
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¹ÄÌşÿÿÿÿ
+T
+java:S1155"">Use isEmpty() to check whether the collection is empty or not.(“üˆä
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒô
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Ø…ÿ¿
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ê‰¸Ó
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(á­Ñãüÿÿÿÿ
+V	java:S125-"<This block of commented-out lines of code should be removed.(á­Ñãüÿÿÿÿ

@@ -1,0 +1,5 @@
+
+k	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ«‰Öýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›õ†¦ùÿÿÿÿ
+W
+java:S1126C"AReplace this if-then-else statement by a single return statement.(éº©í
